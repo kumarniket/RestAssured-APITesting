@@ -5,7 +5,7 @@ import restassured.apitesting.config.TestConfig;
 
 import static io.restassured.RestAssured.given;
 
-public class GetRequestQueryParams extends TestConfig {
+public class GetRequestPathParam extends TestConfig {
 
     @Test
     public void GetRequestQueryParams(){
